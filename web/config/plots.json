@@ -1,0 +1,9 @@
+[{
+    "name": "rp2",
+    "commonName": "mac address",
+    "sensors": [
+      {"deviceID": "mac address",
+        "sensorID": "sensor index"
+    }
+    ] 
+  } ]
